@@ -1,11 +1,11 @@
 {
-  "name": "arandilopez/laravel-profane",
-  "description": "Laravel Profanity Valitador",
+  "name": "krdinesh/laravel-profane",
+  "description": "Laravel Profanity Validator",
   "license": "MIT",
   "authors": [
     {
-      "name": "Arandi Lopez",
-      "email": "arandilopez.93@gmail.com"
+      "name": "Dinesh kumar",
+      "email": "kumardinesh0521@gmail.com"
     }
   ],
   "autoload": {
